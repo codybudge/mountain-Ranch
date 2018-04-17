@@ -1,7 +1,7 @@
-head{
+.head{
     background: darkblue;
-    text: white;
+
 }
-body{
+.body{
      text-align: center;
 }
