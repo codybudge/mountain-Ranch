@@ -1,9 +1,24 @@
-.blue-background{
-    background:darkcyan;
+.blue-background {
+    background:rgb(37, 134, 134);
 }
-.white{
+.white {
     color: white;
 }
-body{
-    
+.center {
+    text-align: center;
+}
+.breaker {
+    background: rgb(178, 198, 235);
+    height: 1vh;
+}
+article {
+    width: 50vw;
+    margin-top: 3vw;
+    margin-left: 15vw;
+    display: inline-block;
+}
+aside {
+    display: inline-block;
+    width: 30vw;
+    margin-left: 6vw;
 }
