@@ -1,0 +1,18 @@
+/* *{
+    outline: 2px solid rgb(88, 22, 22);
+} */
+body{
+  background:   #2D6E7E;
+}
+.container {
+margin-top: 4vh;
+    margin-bottom: 4vh;
+    
+}
+.bg-grey {
+background: #C6DE41;
+font-family: 'Audiowide', cursive;
+}
+.navbar-brand {
+    background: #2D6E7E;
+}
